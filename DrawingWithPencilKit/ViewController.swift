@@ -32,7 +32,7 @@ class ViewController: UIViewController {
         default:
             canvasView.drawingPolicy = .anyInput
         }
-        pencilButton.title = canvasView.drawingPolicy == .anyInput ? "Pencil" : "Finger"
+        pencilButton.title = canvasView.drawingPolicy == .anyInput ? "Finger" : "Pencil"
     }
     let canvasWidth: CGFloat = 768
     let canvasOverscrollHight: CGFloat = 500

@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		573721AA2614E53000C81892 /* example.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = example.gif; sourceTree = "<group>"; };
 		57ADF9E2254E9C09008D167C /* DrawingWithPencilKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DrawingWithPencilKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57ADF9E5254E9C09008D167C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		57ADF9E7254E9C09008D167C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		57ADF9D9254E9C09008D167C = {
 			isa = PBXGroup;
 			children = (
+				573721AA2614E53000C81892 /* example.gif */,
 				57ADF9E4254E9C09008D167C /* DrawingWithPencilKit */,
 				57ADF9E3254E9C09008D167C /* Products */,
 			);
