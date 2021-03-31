@@ -1,3 +1,2 @@
-# education Drawing_With_Pencil_Kit
-In this project i show demo drawing app using PencilKit\
-**Don't forget to see `info.plist`!**
+# edu PencilKit Drawing
+This app has one screen with PencilKit canvas. You can change drawing tool to Pencil or Hand. There is a GIF that shows how this app working.\ 
